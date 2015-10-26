@@ -1,7 +1,7 @@
 # Tesseract-MICR-OCR
 If you use stub and cheque, it might be helpfull
 
-[Version française plus basse](https://github.com/BigPino67/Tesseract-MICR-OCR/edit/master/#user-content-french)
+[Version française plus basse](https://github.com/BigPino67/Tesseract-MICR-OCR#user-content-french)
 
 
 ##English
