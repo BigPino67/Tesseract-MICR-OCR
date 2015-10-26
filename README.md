@@ -38,7 +38,7 @@ Pour augmenter votre taux de succès de reconnaissance, je vous suggère d'appli
 <br><br>
 ##Exercice
 You can find [every files you need](https://github.com/BigPino67/Tesseract-MICR-OCR/tree/master/training) to get something like this. Try it !
-![alt tag](./readmeImages/exercice.png)
+![alt tag](https://raw.githubusercontent.com/BigPino67/Tesseract-MICR-OCR/master/readmeImages/exercice.png)
 
 ![alt tag](./training/templateMicr.png) For MICR Template, use this to find MICR line in image.
 
