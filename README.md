@@ -35,3 +35,11 @@ To get a better recognition accuracy, you first need to define your region of in
 #####Une bonne approche pour augmenter votre taux de succès 0CR
 Pour augmenter votre taux de succès de reconnaissance, je vous suggère d'appliquer un gabarit sur votre image. Il faut garder en tête que certain papier peut être endommager, il est donc plus difficile d'assumer la région à un point X,Y. En ce sens, vous devriez répérer un point d'ancrage. Normalement, le logo de la compagnie en haut à gauche est un bon choix. Si le logo est repéré, définissez votre région d'intérêt depuis l'endroit du point d'ancrage. (ancrage.x + 120px, ancrage.y + 20). Sinon, définissez votre région à un point X,Y.
 
+<br><br>
+##Exercice
+You can find [every files you need](https://github.com/BigPino67/Tesseract-MICR-OCR/tree/master/training) to get something like this. Try it !
+![alt tag](./readmeImages/exercice.png)
+
+![alt tag](./training/templateMicr.png) For MICR Template, use this to find MICR line in image.
+
+![alt tag](./training/templateOcr.png) For OCR Template, use this to find OCR line in image.
