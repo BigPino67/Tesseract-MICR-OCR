@@ -6,10 +6,10 @@ Version française plus basse
 
 ##English
 
-###MICR and OCR language for Tesseract from Canadian Payments Association (CPA)
+####MICR and OCR language for Tesseract from Canadian Payments Association (CPA)
 
-
+<br><br>
 
 ##French
 
-###Langage MICR et OCR pour Tesseract selon l'Association Canadienne des Paiements (ACP)
+####Langage MICR et OCR pour Tesseract selon l'Association Canadienne des Paiements (ACP)
